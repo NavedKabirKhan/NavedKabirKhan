@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NavedKabirKhan
 - 👀 I’m interested in Front-end web designing and Learning about tech.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Front-end web projects and Mechanical tech project builds.
 - 📫 How to reach me : https://navedkhan8495.wixsite.com/navedkhan
 
